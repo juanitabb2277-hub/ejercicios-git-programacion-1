@@ -12,6 +12,10 @@ public class Main {
         System.out.printf("git fetch");
         System.out.printf("git switch -c desarollo");
         System.out.printf("git push origin desarollo");
+        System.out.printf("git checkout main ");
+        System.out.printf("Soy Juanita Baquero Beltran");
+        System.out.printf("Vivo en Funza Cundinamarca");
+        System.out.printf("Tengo tres gaticas patitas tiene 1 año,snekers tien 3 meses y plumita tien dos meses");
 
     }
 }
